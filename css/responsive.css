@@ -1,0 +1,524 @@
+@media only screen and (min-width: 1025px) and (max-width:1200px) {
+    .top-bar {
+        width: 100%;
+        padding: 15px 10px;
+        column-gap: 70px;
+        justify-content: center;
+    }
+    .nevbar ul {
+        gap: 26px;
+        margin-right: 30px;
+    }
+    .line {
+        margin: 0px 10px;
+    }
+    /* .container{
+        width: 100%;
+    } */
+    .baner-content {
+        padding: 80px 0px;
+        display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+    .businesses-box {
+        padding: 0px 30px;
+    }
+
+    .list-icon img {
+        left: 118px;
+    }
+
+    .list-icon .left {
+        width: 100px;
+        margin-left: -143px;
+    }
+
+    .list-icon .right {
+        width: 91px;
+        margin-left: 53px;
+    }
+
+    .work-box {
+        flex-wrap: nowrap;
+    }
+
+    .list {
+        width: 287px;
+    }
+
+    .list-icon i {
+        position: absolute;
+        top: -25px;
+        left: 114px;
+    }
+
+    .Satisfaction-col2 video {
+        width: 400px;
+        padding: 12px 5px;
+    }
+
+    .Satisfaction-col1 p {
+        width: 460px;
+    }
+
+    .member-img img {
+        width: 230px;
+    }
+
+    .trial-boxes {
+        justify-content: center;
+        gap: 35px;
+    }
+
+    .packages {
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .head p {
+        padding: 31px 0px 79px 0px;
+    }
+
+    .insprired-box .fiter {
+        width: 300px;
+    }
+    .member-content{
+        left: 182px;       
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width:1024px) {
+    .top-bar {
+        width: 100%;
+        padding: 15px 10px;
+        justify-content: center;
+    }
+
+    .nevbar {
+        justify-content: center;
+        display: flex !important;
+    }
+
+    .top-skills {
+        max-height: 660px;
+    }
+
+    .line {
+        display: none;
+    }
+
+    .nevbar ul {
+        gap: 15px;
+        padding: 20px 0px;
+    }
+
+    .businesses-box {
+        padding: 0px 30px;
+        row-gap: 30px;
+    }
+
+    .list-icon .left {
+        width: 100px;
+        margin-left: -143px;
+    }
+
+    .list-icon .right {
+        width: 91px;
+        margin-left: 53px;
+    }
+    .list-icon i {
+        left: 113px;
+    }
+    .See-more {
+
+        padding: 30px 14px;
+    }
+
+    .Marketplace-boxes {
+        justify-content: center;
+    }
+
+    .work-box {
+        flex-wrap: wrap;
+        gap: 40px;
+        justify-content: center;
+    }
+
+    .popular-imag {
+        row-gap: 30px;
+    }
+
+    .insprired-boxes {
+        justify-content: center;
+        gap: 30px;
+    }
+
+    .list {
+        width: 287px;
+    }
+
+    .Satisfaction-col2 video {
+        width: 400px;
+        padding: 12px 5px;
+    }
+
+    .Satisfaction-col1 p {
+        width: 460px;
+    }
+
+    .member-img img {
+        width: 230px;
+    }
+
+    .trial-boxes {
+        justify-content: center;
+        gap: 35px;
+    }
+
+    .packages {
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .head p {
+        padding: 31px 0px 79px 0px;
+    }
+
+    .insprired-box .fiter {
+        width: 300px;
+    }
+
+    .baner-content {
+        padding: 80px 0px;
+        display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+
+    .Satisfaction-customer {
+        flex-direction: column;
+    }
+
+    .Satisfaction-col1 {
+        padding-bottom: 45px;
+    }
+
+    .Satisfaction-col2 {
+        padding-bottom: 232px;
+    }
+    .member-content{
+        left: 182px;       
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width:768px) {
+
+    .top-bar {
+        width: 100%;
+        padding: 15px 10px;
+        justify-content: center;
+        gap: 30px;
+
+    }
+    .search{
+        width: 420px;
+
+    }
+    .nevbar {
+        justify-content: center;
+        display: none;
+        flex-direction: column;
+    }
+
+    .top-skills {
+        max-height: 1000px;
+    }
+    .top-loctation {
+        max-height: 320px;
+    }
+    .line {
+        display: none;
+    }
+    .two-colummn p {
+        font-size: 25px;
+    }
+    .nevbar ul {
+        gap: 15px;
+        padding: 20px 0px;
+        flex-direction: column;
+
+    }
+
+    .businesses-box {
+        padding: 0px 30px;
+        row-gap: 30px;
+    }
+
+
+    .list-icon .left {
+        width: 100px;
+        margin-left: -143px;
+    }
+
+    .list-icon .right {
+        width: 91px;
+        margin-left: 53px;
+    }
+
+    .Marketplace-boxes {
+        justify-content: center;
+    }
+
+    .work-box {
+        flex-wrap: wrap;
+        gap: 40px;
+        justify-content: center;
+    }
+
+    .popular-imag {
+        row-gap: 30px;
+        justify-content: center;
+
+    }
+
+    .insprired-boxes {
+        justify-content: center;
+        gap: 30px;
+    }
+
+    .list {
+        width: 287px;
+    }
+
+
+    .Satisfaction-col2 video {
+        width: 400px;
+        padding: 12px 5px;
+    }
+
+    .Satisfaction-col1 p {
+        width: 460px;
+    }
+
+    .trial-boxes {
+        justify-content: center;
+        gap: 35px;
+    }
+    .footer-contant{
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 60px;
+        justify-content: center;
+        margin: 0px 30px;
+    }
+    .footer-end-content {
+        justify-content: center;
+        gap: 15px;
+    }
+    .packages {
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .head p {
+        padding: 31px 0px 79px 0px;
+    }
+
+    .insprired-box .fiter {
+        width: 300px;
+    }
+
+    .baner-content {
+        padding: 150px 0px;
+    }
+
+    .Satisfaction-customer {
+        flex-direction: column;
+    }
+
+    .Satisfaction-col1 {
+        padding-bottom: 45px;
+        width: unset;
+    }
+
+    .Satisfaction-col2 {
+        padding-bottom: 232px;
+        width: unset;
+
+    }
+    .language{
+        margin-left: unset;
+    }
+    #menu-drop {
+        display: flex;
+        padding: 16px 0px 16px 0px;
+        align-items: center;
+        text-align: center;
+        font-size: 25px;
+        color: #000;
+      }
+}
+
+@media only screen and (min-width: 320px) and (max-width:479px) {
+    .top-bar {
+        width: 100%;
+        padding: 15px 10px;
+        justify-content: center;
+        gap: 15px;
+        flex-direction: column;
+
+
+    }
+    .search{
+        width: 260px;
+    }
+    .search input {
+        width: 70px;
+    }
+    .search button {
+        padding: 10px 18px;
+    }
+    .nevbar {
+        justify-content: center;
+        display: none;
+
+    }
+
+    .top-skills {
+        max-height: unset;
+        flex-wrap: nowrap;
+
+    }
+    .top-loctation {
+        max-height: unset;
+        flex-wrap: nowrap;
+
+    }
+    .line {
+        display: none;
+    }
+    .two-colummn p {
+        font-size: 25px;
+    }
+    .nevbar ul {
+        gap: 15px;
+        padding: 20px 0px;
+        flex-direction: column;
+
+    }
+
+    .businesses-box {
+        padding: 0px 30px;
+        row-gap: 30px;
+    }
+
+
+    .list-icon .left {
+        width: 100px;
+        margin-left: -140px;
+    }
+
+    .list-icon .right {
+        width: 91px;
+        margin-left: 49px;
+    }
+
+    .Marketplace-boxes {
+        justify-content: center;
+    }
+
+    .work-box {
+        flex-wrap: wrap;
+        gap: 40px;
+        justify-content: center;
+    }
+
+    .popular-imag {
+        row-gap: 30px;
+        justify-content: center;
+
+    }
+
+    .insprired-boxes {
+        justify-content: center;
+        gap: 30px;
+    }
+
+    .list {
+        width: 287px;
+    }
+
+    .Satisfaction-col1 p {
+        width: 100%;
+    }
+    .Satisfaction-col2 video {
+        width: 286px;
+        padding: 12px 1px;
+        height: 178px;
+    }
+    .Satisfaction-col2 .animation {
+        transform: translate(-50%, -60%);
+    }
+    .Satisfaction-col2 {
+        padding-bottom: 190px;
+        width: unset;
+    }
+    .trial-boxes {
+        justify-content: center;
+        gap: 35px;
+    }
+    .footer-contant{
+        display: grid;
+        grid-template-columns: auto ;
+        grid-gap: 30px;
+    }
+    .footer-end-content {
+        justify-content: center;
+        gap: 15px;
+    }
+    .packages {
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .head p {
+        padding: 31px 0px 79px 0px;
+    }
+
+    .insprired-box .fiter {
+        width: 300px;
+    }
+
+    .baner-content {
+        padding: 80px 0px;
+    }
+
+    .Satisfaction-customer {
+        flex-direction: column;
+    }
+
+    .Satisfaction-col1 {
+        padding-bottom: 45px;
+        width: unset;
+    }
+    .footer-mid {
+        flex-wrap: wrap;
+        row-gap: 30px;
+    }
+    .Satisfaction-col2 {
+        padding-bottom: 190px;
+        width: unset;
+    }
+    .language{
+        margin-left: unset;
+    }
+    #menu-drop {
+        display: flex;
+        padding: 16px 0px 16px 0px;
+        align-items: center;
+        text-align: center;
+        font-size: 25px;
+        color: #000;
+      }
+}
