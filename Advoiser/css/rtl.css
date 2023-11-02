@@ -1,0 +1,227 @@
+.advise-number>span:before{
+    left: 0;
+}
+.language{
+    margin-right: 50px;
+    margin-left: 0;
+}
+.top-strip-search>span>i{
+    margin-left: 10px;
+    margin-right: 0;
+}
+.links>a>i, .dropdown>a>i{
+    margin-left: 10px;
+}
+.header-cart>a>i{
+    margin-left: 10px;
+    margin-right: 20px;   
+}
+.nav-menu {
+    padding-left: 60px;
+}
+.logo {
+    width: 30%;
+}
+.our-location-text>a>.second:before {
+    width: 78px;
+    top: 42%;
+    right: 0;
+}
+.copyright-bar-credits{
+    text-align: left;
+}
+.copyright-bar-logo{
+    text-align: right;
+}
+.information-links>a>.fa-angle-left{
+    position: relative;
+}
+.information-links>a>.fa-angle-left:after{
+    content: '';
+    height: 2px;
+    width: 95px;
+    top: 7%;
+    border-bottom: 2px solid #aad0df;
+    padding: 3px 0px 0px;
+    right: -90px;
+    margin-bottom: 6px;
+    position: absolute;
+    background: transparent;
+    opacity: 0;
+}
+.Financial-news-inbox-form>a>.second:before {
+    width: 68px;
+    left: -5px;
+}
+.Meet-The-Team-text>a>.second:before {
+    width: 80px;
+    left: -5px;
+}
+.contact-us-text{
+    align-items: flex-start;
+}
+.contact-us-content{
+    justify-content: space-between;
+}
+.contact-us-text>a>.second:before {
+    width: 67px;
+    right: 0;
+}
+.latest-case-studies-text>a>.second:before{
+   width: 71px;
+    right: 0;
+    top:41%;
+}
+.slick-dots-1 li button:before{
+    right: 0;
+}
+.core-values-btn>a>.second:before {
+    width: 72px;
+    right: 0;
+}
+.core-values-btn>a>span:before {
+    width: 121px;
+    right: 0;
+}
+.clinte-love-number-heading:before{
+    right: 0;
+}
+.our-clients-text{
+    margin-left: 35px;
+    margin-right: 0;
+}
+.logo-content {
+    padding-right: 10px;
+}
+.Latest-Blog-content>a>.second:before {
+    width: 78px;
+    top: 41%;
+    right: 0;
+}
+.padding{
+    padding-left: 50px;
+}
+.Financial-news-inbox-form>a {
+    padding-right: 20px;
+}
+.slick-dots-1 li button{
+    right: 0;
+}
+.all-heading>i{
+    margin-left: 15px;
+}
+.header-content>a:before {
+    left: 0;
+    top: 50%;
+}
+.header-content>a:after {
+    left: 0px;
+    transform: rotate(225deg);
+    top: 7px;
+}
+.contact-us-text>a:before {
+    width: 70px;
+    left: 0px;
+    right: -12px;
+    top: 50%;
+}
+.contact-us-text>a:after {
+    left: -12px;
+    transform: rotate(225deg);
+    top: 7px;
+}
+.latest-case-studies-text>a:before {
+    width: 75px;
+    top: 50%;
+    left: 0px;
+    right: 25px;
+}
+.latest-case-studies-text>a:after {
+    left: 112px;
+    transform: rotate(225deg);
+    top: 7px;
+}
+.core-values-btn>a:before {
+    width: 123px;
+    top: 50%;
+    left: 12px;
+}
+.core-values-btn>a:after {
+    left: 12px;
+    transform: rotate(225deg);
+    top: 7px;
+}
+.core-values-btn>span>a:before {
+    width: 80px;
+    top: 50%;
+    left: 20px;
+}
+.core-values-btn>span>a:after {
+    left: 20px;
+    transform: rotate(225deg);
+    top: 7px;
+}
+.Latest-Blog-content>a:before {
+    width: 80px;
+    top: 50%;
+    left: 15px;
+}
+.Latest-Blog-content>a:after {
+    left: 15px;
+    transform: rotate(225deg);
+    top: 7px;
+}
+.Meet-The-Team-text>a:before {
+    width: 80px;
+    top: 50%;
+    left: 15px;
+}
+.Meet-The-Team-text>a:after {
+    left: 14px;
+    transform: rotate(225deg);
+}
+.inbox>a:before {
+    width: 80px;
+    top: 50%;
+    left: 15px;
+}
+.inbox>a:after {
+    left: 15px;
+    transform: rotate(225deg);
+    top: 7px;
+}
+.our-location-text>a:before {
+    width: 75px;
+    top: 50%;
+    right: 25px;
+}
+.our-location-text>a:after {
+    right: 91px;
+    transform: rotate(225deg);
+    top: 7px;
+}
+.footer-last-icon>a:before {
+    width: 70px;
+    top: 44%;
+    right: -8px;
+}
+.footer-last-icon>a:after {
+    right: 55px;
+    transform: rotate(225deg);
+    top: 6px;
+}
+.footer-last-icon>span>a:before {
+    width: 44px;
+    top: 50%;
+    right: -8px;
+}
+.footer-last-icon>span>a:after {
+    right: 28px;
+    transform: rotate(225deg);
+    top: 5px;
+}
+.absolute-text>span, .absolute-text-2>span, .absolute-text-3>span {
+    font-weight: bold;
+    color: #fff;
+    margin-left: 10px;
+}
