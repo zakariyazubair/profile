@@ -1,0 +1,14 @@
+@media only screen and (min-width: 481px) and (max-width: 768px){
+.Upcoming-box2 {
+    padding-left: 0;
+}
+}
+@media only screen and (min-width: 320px) and (max-width: 480px){
+    .Upcoming-box2 {
+        padding-left: 0;
+    }
+    .Upcoming-box1 {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
