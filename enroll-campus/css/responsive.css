@@ -1,0 +1,737 @@
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+    .container{
+        width: 100%;
+    }
+    .menu ul li .slider-para {
+        width: 100%;
+    }
+    .menu ul li{
+        padding: 44px 27px;
+    }
+    .navigation {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+    }
+    .find-your-course-form{
+        max-height: 385px;
+    }
+    .popular-course-contiant{
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .quection-img{
+        display: none;
+    }
+    .learn-content{
+        justify-content:center ;
+    }
+    .event-main-col1 {
+        width: 100%;
+    }
+    .what-client-comments-1 {
+        padding: 52px 42px 37px 44px;
+    }
+    .what-client-left-arrow {
+        position: absolute;
+        left: 52px;
+        top: -15%;
+        font-size: 20px;
+        color: #424242;
+        cursor: pointer;
+    }
+    .what-client-right-arrow {
+        position: absolute;
+        right: 79px;
+        top: -15%;
+        font-size: 20px;
+        color: #424242;
+        cursor: pointer;
+    }
+    .blog-content {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .blog-content-number {
+        width: 366px;
+    }
+    .uni-line {
+        width: 65%;
+    }
+    .copyright-bar-main {
+        padding: 37px 30px;
+    }
+    .garrly {
+        justify-content: center;
+    }
+}
+@media only screen and  (min-width: 769px) and (max-width: 1024px) {
+    .container{
+        width: 100%;
+    }
+    .flex {
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 27px;
+    }
+    .menu ul li .slider-para {
+        width: 100%;
+    }
+    .menu ul li{
+        padding: 44px 27px;
+    }
+    .navigation {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+    }
+    .baner{
+        flex-direction: column;
+    }
+    .menu {
+        width: 100%;
+    }
+    .slider {
+        width: 100%;
+    }
+    .courses{
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+    .courses-links{
+        width: 166px;
+    }
+    .find-box{
+        flex-wrap: wrap;
+    }
+    .find-your-course-form{
+        max-height: unset;
+        width: 100%;
+    }
+    .popular-course-number {
+        width: 335px;
+    }
+    .popular-image img {
+        width: 100%;
+    }
+    .learn-box {
+        width: 100%;
+        height: unset;
+    }
+    .popular-course-contiant{
+        justify-content: center;
+        flex-wrap: wrap;  
+    }
+    .why-choose-us-content{
+        flex-wrap: wrap;
+    }
+    .latest-img {
+        width: 46%;
+    }
+    .choose-conter {
+        width: 100%;
+    }
+    .ask-question {
+        width: 100%;
+    }
+    .quection-img{
+        display: none;
+    }
+    .learn-content{
+        justify-content:center ;
+    }
+    .event-content {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .latest-img img {
+        width: 243px;
+    }
+    .event-main-col1 {
+        width: 100%;
+    }
+    .what-client-comments-1 {
+        padding: 52px 42px 37px 44px;
+    }
+    .what-client-left-arrow {
+        position: absolute;
+        left: 52px;
+        top: -15%;
+        font-size: 20px;
+        color: #424242;
+        cursor: pointer;
+    }
+    .what-client-right-arrow {
+        position: absolute;
+        right: 79px;
+        top: -15%;
+        font-size: 20px;
+        color: #424242;
+        cursor: pointer;
+    }
+    .scroll {
+        width: 100%;
+    }
+    .our-history-advice-main{
+        flex-wrap: wrap;
+    }
+    .get-advice {
+        width: 100%;
+    }
+    .blog-content {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .blog-img img {
+        width: 346px;
+    }
+    .blog-content-number {
+        width: 348px;
+    }
+    .uni-line {
+        width: 55%;
+    }
+    .i-d-main {
+        gap: 120px;
+        flex-wrap: wrap;
+    }
+    .dot-line-2{
+        display: none;
+    }
+    .dot-line-1{
+        display: none;
+    }
+    .footer-main {
+        flex-wrap: wrap;
+    }
+    .instructors-contain{
+        flex-wrap: nowrap;
+    }
+    .copyright-bar-main {
+        padding: 37px 30px;
+    }
+    .main-heading h2::before {
+        left: 42%;
+    }
+    .garrly {
+        justify-content: center;
+    }
+}
+
+@media only screen and  (min-width: 481px) and (max-width: 768px) {
+    .container{
+        width: 100%;
+    }
+    .flex {
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 27px;
+    }
+    .loction {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+    .login-popup {
+        width: 90%;
+    }
+    .menu ul li .slider-para {
+        width: 100%;
+    }
+    .menu ul li{
+        padding: 44px 27px;
+    }
+    .navigation {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+    }
+    .baner{
+        flex-direction: column;
+    }
+    .menu {
+        width: 100%;
+    }
+    .slider {
+        width: 100%;
+    }
+    .courses{
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 100%;
+    }
+    .courses-links{
+        width: 166px;
+    }
+    .find-box{
+        flex-wrap: wrap;
+    }
+    .find-your-course-form{
+        max-height: unset;
+        width: 100%;
+    }
+    .popular-course-number {
+        width: 335px;
+    }
+    .popular-image img {
+        width: 100%;
+    }
+    .learn-box {
+        width: 100%;
+        height: unset;
+    }
+    .popular-course-contiant{
+        justify-content: center;
+        flex-wrap: wrap;  
+    }
+    .why-choose-us-content{
+        flex-wrap: wrap;
+    }
+    .latest-img {
+        width: 46%;
+    }
+    .choose-conter {
+        width: 100%;
+    }
+    .ask-question {
+        width: 100%;
+    }
+    .quection-img{
+        display: none;
+    }
+    .learn-content{
+        justify-content:center ;
+    }
+    .event-content {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .latest-img img {
+        width: 200px;
+    }
+    .event-main{
+        flex-wrap: wrap;
+    }
+    .event-main-col1 {
+        width: 100%;
+    }
+    .event-conter {
+        width: 100%;
+        margin-top: unset;
+    }
+    .what-client-number{
+        width: 100%;
+    }
+    .what-client-holder{
+        width: 100%;
+    }
+    .what-client-main {
+        flex-direction: column;
+    }
+    .client-autoplay {
+        width: 100%;
+        margin: 0;
+    }
+    .what-client-comments-1 {
+        padding: 52px 42px 37px 44px;
+    }
+    .what-client-left-arrow {
+        position: absolute;
+        left: 10px;
+        top: 39%;
+        font-size: 20px;
+        color: #424242;
+        cursor: pointer;
+    }
+    .what-client-right-arrow {
+        position: absolute;
+        right: 35px;
+        top: 39%;
+        font-size: 20px;
+        color: #424242;
+        cursor: pointer;
+    }
+    .scroll {
+        width: 100%;
+    }
+    .our-history-advice-main{
+        flex-wrap: wrap;
+    }
+    .get-advice {
+        width: 100%;
+    }
+    .blog-content {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .blog-img img {
+        width: 100%;
+    }
+    .blog-content-number {
+        width: 100%;
+    }
+    .uni-line {
+        width: 90%;
+    }
+    .contact-us {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .i-d-main {
+        gap: 120px;
+        flex-wrap: wrap;
+    }
+    .dot-line-2{
+        display: none;
+    }
+    .dot-line-1{
+        display: none;
+    }
+    .newsletter-form input[type=email] {
+        flex-grow:unset;
+    }
+    .newsletter-form {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .footer-main {
+        flex-wrap: wrap;
+    }
+    .instructors-contain{
+        flex-wrap: wrap;
+    }
+    .copyright-bar-main {
+        padding: 37px 30px;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+    }
+    .main-heading h2::before {
+        left: 42%;
+    }
+    #menu-drop {
+        display: block;
+        padding: 16px 0px 16px 0px;
+        align-items: center;
+        text-align: center;
+        font-size: 25px;
+        color: #424242;
+    }
+    .nav-bar{
+        display: none;
+    }
+    .nav-bar ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .faq-main {
+        flex-wrap: wrap;
+    }
+    .faq-content-main {
+        width: 100%;
+    }
+    .faq-sidescroll {
+        width: 100%;
+    }
+    .faq-form input {
+        width: 100%;
+    }
+    .faq-form input[type=submit] {
+        width: 130px;
+    }
+    .links a {
+        left: 20px;
+    }
+    .links a::after {
+        left: -30px;
+    }
+    .garrly {
+        justify-content: center;
+    }
+}
+@media only screen and  (min-width: 320px) and (max-width: 480px) {
+    .container{
+        width: 100%;
+    }
+    .flex {
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 27px;
+    }
+    .loction {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+    .login-popup {
+        width: 90%;
+    }
+    .menu ul li .slider-para {
+        width: 100%;
+    }
+    .menu ul li{
+        padding: 44px 27px;
+    }
+    .navigation {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+    }
+    .baner{
+        flex-direction: column;
+    }
+    .menu {
+        width: 100%;
+    }
+    .slider {
+        width: 100%;
+    }
+    .courses{
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 100%;
+    }
+    .courses-links{
+        width: 166px;
+    }
+    .find-box{
+        flex-wrap: wrap;
+    }
+    .find-your-course-form{
+        max-height: unset;
+        width: 100%;
+    }
+    .popular-course-number {
+        width: 335px;
+    }
+    .popular-image img {
+        width: 100%;
+    }
+    .learn-box {
+        width: 100%;
+        height: unset;
+    }
+    .popular-course-contiant{
+        justify-content: center;
+        flex-wrap: wrap;  
+    }
+    .why-choose-us-content{
+        flex-wrap: wrap;
+    }
+    .latest-img {
+        width: 100%;
+    }
+    .choose-conter {
+        width: 100%;
+    }
+    .ask-question {
+        width: 100%;
+    }
+    .quection-img{
+        display: none;
+    }
+    .learn-content{
+        justify-content:center ;
+    }
+    .event-content {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .latest-img img {
+        width: 100%;
+    }
+    .event-main{
+        flex-wrap: wrap;
+    }
+    .event-main-col1 {
+        width: 100%;
+    }
+    .event-conter {
+        width: 100%;
+        margin-top: unset;
+    }
+    .what-client-number{
+        width: 100%;
+    }
+    .what-client-holder{
+        width: 100%;
+    }
+    .what-client-main {
+        flex-direction: column;
+    }
+    .client-autoplay {
+        width: 100%;
+        margin: 0;
+    }
+    .what-client-comments-1 {
+        padding: 52px 42px 37px 44px;
+    }
+    .what-client-left-arrow {
+        position: absolute;
+        left: 10px;
+        top: 39%;
+        font-size: 20px;
+        color: #424242;
+        cursor: pointer;
+    }
+    .what-client-right-arrow {
+        position: absolute;
+        right: 35px;
+        top: 39%;
+        font-size: 20px;
+        color: #424242;
+        cursor: pointer;
+    }
+    .scroll {
+        width: 100%;
+    }
+    .our-history-advice-main{
+        flex-wrap: wrap;
+    }
+    .get-advice {
+        width: 100%;
+    }
+    .blog-content {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .blog-img img {
+        width: 100%;
+    }
+    .blog-content-number {
+        width: 100%;
+    }
+    .uni-line {
+        width: 90%;
+    }
+    .contact-us {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .i-d-main {
+        gap: 120px;
+        flex-wrap: wrap;
+    }
+    .dot-line-2{
+        display: none;
+    }
+    .dot-line-1{
+        display: none;
+    }
+    .newsletter-form input[type=email] {
+        flex-grow:unset;
+    }
+    .newsletter-form {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .footer-main {
+        flex-wrap: wrap;
+    }
+    .instructors-contain{
+        flex-wrap: wrap;
+    }
+    .copyright-bar-main {
+        padding: 37px 30px;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+    }
+    .main-heading h2::before {
+        left: 42%;
+    }
+    #menu-drop {
+        display: block;
+        padding: 16px 0px 16px 0px;
+        align-items: center;
+        text-align: center;
+        font-size: 25px;
+        color: #424242;
+    }
+    .nav-bar{
+        display: none;
+    }
+    .nav-bar ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .courses-conter {
+        display: flex;
+        gap: 40px;
+        flex-wrap: wrap;
+    }
+    .get-advice form input[type=text] {
+        width: 100%;
+    }
+    .get-advice form input[type=email] {
+        width: 100%;
+    }
+    .get-advice form input[type=submit] {
+        width: 100%;
+    }
+    .blog-img-info {
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 90%;
+        gap: 20px;
+    }
+    .university-left-arrow {
+        top: -34px;
+        left: 22px;
+    }
+    .university-right-arrow {
+        top: -34px;
+        right: 22px;
+    }
+    iframe {
+        width: 100%;
+        height: auto;
+    }  
+    .learn-box-txt:hover #butn {
+        visibility: visible;
+        margin-top: 23px;
+        margin-bottom: 90px;
+    }
+    .learn-box-txt span {
+
+        margin-top: 30px;
+    } 
+    .faq-main {
+        flex-wrap: wrap;
+    }
+    .faq-content-main {
+        width: 100%;
+    }
+    .faq-sidescroll {
+        width: 100%;
+    }
+    .faq-form input {
+        width: 100%;
+    }
+    .faq-form input[type=submit] {
+        width: 130px;
+    }
+    .links a {
+        left: 20px;
+    }
+    .links a::after {
+        left: -30px;
+    }
+    .footer-number {
+        align-items: center;
+        text-align: center;
+    }
+    .instructors-contain {
+        justify-content: center;    
+    }
+    .garrly {
+        justify-content: center;
+    }
+    .gallery-btun-nav {
+        justify-content: center;
+        gap: 10px;
+    
+    }
+}

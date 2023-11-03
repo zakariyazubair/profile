@@ -1,0 +1,175 @@
+.garlly-baner {
+  background-image: url(../img/Untitled-16.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.garlly-baner-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+.garlly-baner-nav a {
+  font-size: 15px;
+  font-family: "Ubuntu", sans-serif;
+  text-decoration: none;
+  color: #c3c8e2;
+}
+.garlly-baner-nav a:last-child {
+  color: #ffffff;
+}
+.garlly-baner-nav i {
+  color: #ffffff;
+  font-size: 8px;
+}
+.garlly-baner-main {
+  padding: 80px 0px;
+}
+.garlly-baner-heading {
+  text-align: center;
+  font-family: "Merriweather", serif;
+  color: #ffffff;
+  font-size: 35px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+.fliter-catigery {
+  text-align: center;
+}
+.fliter-catigery button {
+  cursor: pointer;
+  border: solid 1px #b99663;
+  background-color: #ffffff;
+  outline: none;
+  margin: 5px;
+  padding: 5px;
+  width: 100px;
+  color: #b99663;
+}
+.garrly {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  margin: 50px 0px;
+}
+.garrly-imag {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+  cursor: pointer;
+}
+.garrly-imag img {
+  display: block;
+  width: 100%;
+}
+.garrly-imag:hover .gallery-overlay {
+  visibility: visible;
+  top: 0;
+  transition: 0.5s ease;
+}
+.gallery-overlay {
+  background: #222845ab;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 100%;
+  visibility: hidden;
+}
+.gallery-overlay p {
+  width: 75%;
+  margin: 0 auto 20px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+  text-align: center;
+  line-height: 1.6em;
+}
+.gallery-overlay-txt {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.gallery-overlay-txt a {
+  background: #fff;
+  padding: 14px 16px;
+  border-radius: 100%;
+  text-align: right;
+  margin: 10px;
+}
+.gallery-overlay-txt a i {
+  color: #222845;
+}
+.gallery-btun-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  background: #fafafa;
+  padding: 15px;
+}
+.gallery-btun-nav a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #cacaca;
+  background: #fff;
+  border-bottom: 2px solid #cacaca;
+  padding: 10px 15px;
+  text-transform: uppercase;
+  font-style: italic;
+  text-decoration: none;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 12px;
+}
+.gallery-btun-nav a i {
+  font-size: 8px;
+}
+.gallery-btun-nav a:hover {
+  border-bottom: 2px solid #222845;
+  color: #222845;
+  transition: 0.9s;
+}
+.nav-word {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.nav-word a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #cacaca;
+  background: #fff;
+  border-bottom: 2px solid #cacaca;
+  padding: 10px 15px;
+  text-transform: uppercase;
+  font-style: italic;
+  text-decoration: none;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 12px;
+}
+.nav-word a:nth-child(4n) {
+  background: #fafafa;
+  border: none;
+  padding-bottom: unset;
+}
+.nav-word a:nth-child(4n):hover {
+  border: none;
+  color: #cacaca;
+}
+.nav-word a:hover {
+  border-bottom: 2px solid #222845;
+  color: #222845;
+  transition: 0.9s;
+}
+#menu-drop {
+  color: #222845;
+  font-size: 24px;
+  cursor: pointer;
+  display: none;
+}

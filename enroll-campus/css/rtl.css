@@ -1,0 +1,78 @@
+.adress i {
+    margin-right:unset;
+    margin-left: 10px;
+}
+.menu ul li.active {
+    border-left: unset;
+    border-right: 5px solid #b99663;
+}
+.input-text-course a {
+    right: unset;
+    left: 20px;
+}
+.find-your-course-form h3::after {
+    left:unset;
+    right: 35px;
+}
+.courses-links {
+    border-right: 4px solid transparent;
+    border-left: unset;
+}
+.courses-links:hover {
+    border-right: 4px solid #b99663;
+    border-left: unset;
+}
+.popular-comments-views a i {
+    margin: unset;
+    margin-left:  10px;
+}
+.quection-img{
+    display: none;
+}
+.what-client-number-1 {
+    right: -26px;
+    left: unset;
+}
+.what-client-comments-1::before {
+    right: unset;
+    left: 65px;
+}
+.what-client-comments::before {
+    left: unset;
+    right: 62px;
+}
+.get-advice form input[type=text] {
+    border-right: unset;
+    border-left: 2px solid #c3c8e2 ;
+}
+.get-advice form input[type=email] {
+    border-right: unset;
+    border-left: 2px solid #c3c8e2 ;
+}
+.our-history {
+    direction: rtl;
+    padding-left: unset;
+    padding-right: 20px;
+}
+.scroll {
+    direction: ltr;
+}
+.university-right-arrow {
+    right: unset;
+    left: 22px;
+}
+.university-left-arrow {
+    left: -7px;
+    right: unset;
+}
+.dot-line-2 {
+    right: 139px;
+}
+.links a {
+    left: unset;
+    right: 20px;
+}
+.links a::after {
+    left:unset;
+    right: -35px;
+}
