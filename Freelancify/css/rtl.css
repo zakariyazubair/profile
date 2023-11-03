@@ -1,0 +1,81 @@
+.nevbar ul{
+    margin-left: 30px;
+    margin-right: unset;
+}
+.projects-text {
+    padding-right: 30px;
+    padding-left: unset;
+}
+.list-icon .left {
+    margin-right: -179px;
+    margin-top: unset;
+}
+.list-icon .right {
+    margin-right: 68px;
+}
+.See-more {
+    background-color: #ffffff;
+    box-shadow: 1px 1px 9px #d7d7d6ee;
+    text-align: center;
+    padding: 45px 55px;
+}
+.heading-bottom-col1 h1::after {
+    position: absolute;
+    content: "";
+    height: 3px;
+    top: 40px;
+    left: 0;
+    right: 0;
+    width: 47px;
+    background: #1dbf73;
+}
+.heading {
+    border-right: 4px solid #1dbf73;
+    border-left: unset;
+    padding-right: 15px;
+    padding-left: unset;
+
+
+
+}
+.heading-bottom {
+    border-right: 4px solid #1dbf73;
+    border-left: unset;
+    padding-right: 15px;
+    padding-left: unset;
+
+
+}
+.member-content {
+    position: absolute;
+    top: 80%;
+    right: -114px;
+    left: unset;
+}
+.circleThing {
+    padding: 48px;
+    position: absolute;
+    top: 80px;
+    left: unset;
+    right: 83px;
+}
+.nobox {
+    top: 30px;
+    left: 0px;
+    right: 15px;
+}
+.charset::after {
+    left: 0;
+    right: 49%;
+}
+.Business img {
+    border-radius: 50%;
+    margin-left: 15px;
+}
+.social-icon h3 {
+    margin-right: 0px;
+    margin-left: 10px;
+}
+.Satisfaction-col1 p {
+    width: 536px;
+}
